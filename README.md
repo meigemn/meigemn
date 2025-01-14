@@ -1,4 +1,4 @@
-<h3 align="center">A developing student.</h3>
+<h3 align="center">A Development Student.</h3>
 
 - 🌱 I’m currently learning **Web Apps Developing**
 
