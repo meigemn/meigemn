@@ -1,14 +1,10 @@
-<h1 align="center">knowledge</h1>
+# knowledge
 
 ###
 
 <h4 align="left">Frontend</h4>
 
-###
-
 <h6 align="center">Languages, Frameworks and Libraries</h6>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
@@ -42,15 +38,9 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
 </div>
 
-###
-
-<p align="left">Backend</p>
-
-###
+<h4 align="left">Backend</h4>
 
 <h6 align="center">Languages and frameworks</h6>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
@@ -68,11 +58,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
 </div>
 
-###
-
-<p align="center">BBDD and DevOps</p>
-
-###
+<h4 align="center">BBDD and DevOps</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
@@ -83,8 +69,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meigemn/meigemn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meigemn/meigemn/output/pacman-contribution-graph.svg">
+  <img media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meigemn/meigemn/output/pacman-contribution-graph-dark.svg">
+  <img media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meigemn/meigemn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meigemn/meigemn/output/pacman-contribution-graph.svg">
 </picture>
 
@@ -95,5 +81,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
